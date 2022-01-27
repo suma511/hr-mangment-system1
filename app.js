@@ -51,14 +51,14 @@ const Ghazi = new Employee(1000, "Gazi Samer", "adminstration", "senior");
 Ghazi.finalsalary()
 Ghazi.render();
 const Lana = new Employee(1001, "Lana Ali", "Finance", "senior");
-Ghazi.finalsalary()
-Ghazi.render();
+Lana.finalsalary()
+Lana.render();
 const Tamara = new Employee(1002, "Tamara Ayoub", "marketing", "senior");
-Ghazi.finalsalary()
-Ghazi.render();
+Tamara.finalsalary()
+Tamara.render();
 const Safi = new Employee(1003, "Safi Walid", "adminstration", "medsenior");
-Ghazi.finalsalary()
-Ghazi.render();
+Safi.finalsalary()
+Safi.render();
 const Omar = new Employee(1004, "Omar Zaid", "development", "senior");
 Ghazi.finalsalary()
 Ghazi.render();
@@ -66,5 +66,5 @@ const Rana = new Employee(1005, "Rana Saleh", "development", "junior");
 Ghazi.finalsalary()
 Ghazi.render();
 const Hadi = new Employee(1006, "Hadi Ahmad", "finance", "medsenior");
-Ghazi.finalsalary()
-Ghazi.render();
+Omar.finalsalary()
+Omar.render();
