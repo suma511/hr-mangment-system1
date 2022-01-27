@@ -60,11 +60,11 @@ const Safi = new Employee(1003, "Safi Walid", "adminstration", "medsenior");
 Safi.finalsalary()
 Safi.render();
 const Omar = new Employee(1004, "Omar Zaid", "development", "senior");
-Ghazi.finalsalary()
-Ghazi.render();
-const Rana = new Employee(1005, "Rana Saleh", "development", "junior");
-Ghazi.finalsalary()
-Ghazi.render();
-const Hadi = new Employee(1006, "Hadi Ahmad", "finance", "medsenior");
 Omar.finalsalary()
 Omar.render();
+const Rana = new Employee(1005, "Rana Saleh", "development", "junior");
+Rana.finalsalary()
+Rana.render();
+const Hadi = new Employee(1006, "Hadi Ahmad", "finance", "medsenior");
+Hadi.finalsalary()
+Hadi.render();
